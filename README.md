@@ -29,6 +29,7 @@ The sidebar includes navigation links, social media icons, and a clean UI layout
 ## 🌐 Deployment
 
 This project is deployed using GitHub Pages.
+
 Deployed Link: 
 https://shwetavhannure.github.io/mini-project-css/
 
